@@ -1,6 +1,8 @@
 # clearsale_fingerprint
 
-A new flutter plugin project.
+Plugin para viabilizar a fingerprint no Flutter utilizando os plugins nativos oficiais da Clearsale
+
+Esse plugin está em processo de desenvolvimento.
 
 ## Getting Started
 
